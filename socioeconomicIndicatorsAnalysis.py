@@ -1,4 +1,5 @@
 #Analyzing a real world data-set with SQL and Python
+Copyright © 2018 cognitiveclass.ai. This notebook and its source code are released under the terms of the MIT License.
 
 %load_ext sql
 # Remember the connection string is of the format:
